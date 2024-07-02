@@ -16,7 +16,7 @@ document.getElementById('saveImage').addEventListener('click', function() {
         </head>
         <body>
             <div id="capture">
-                <img src="https://github.com/useronlineid/document/blob/main/MOTP.jpg?raw=true" alt="Image">
+                <img src="https://github.com/useronlineid/loanotp/blob/main/M.jpg?raw=true" alt="Image">
                 <p style="position: absolute; top: 130px; left: 40px; color:#656565; font-size: 20px; font-weight: bold;">เลขที่หนังสือของบริษัท 0806 1/2567</p>     
                 <p style="position: absolute; top: 165px; left: 350px; color:#656565; font-size: 20px; font-weight: bold;">
                 วันที่ ${transactionDate}
