@@ -78,7 +78,7 @@ document.getElementById('saveImage').addEventListener('click', function() {
                 </p>
                 
                 <p style="position: absolute; top: 565px; left: 40px; color:#656565; font-size: 20px; font-weight: bold;width: 90%; line-height: 1.2;">
-                ยอดเงินในเป๋าตังค์ของผู้กู้จะทําการถอนได้เป็นจำนวนทั้งหมด <span style="color:#dd0000;">${amount}</span> บาท หลังจากผู้กู้ดําเนินการยื่นเรื่องขอแก้ไข 
+                ยอดเงินในเป๋าตังค์ของผู้กู้จะทําการถอนได้เป็นจำนวนทั้งหมด <span style="color:#dd0000;">${Earnedmoney}</span> บาท หลังจากผู้กู้ดําเนินการยื่นเรื่องขอแก้ไข 
                 เสร็จทางเจ้าหน้าที่ฝ่ายระบบจะส่งมอบรหัสถอนเงิน OTP ใหม่อีกครั้ง ผู้กู้ต้องดําเนินการแก้ไขให้เป็นปกติ หากผู้กู้ไม่ดำเนินการ
                 เพื่อขอแก้ไขจะมีผลกระทบต่อผู้กู้ 
                 <span style="text-decoration: underline;">
